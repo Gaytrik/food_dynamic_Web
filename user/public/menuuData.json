@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "name": "Paneer Butter Masala",
+    "image":"https://lh3.googleusercontent.com/aida-public/AB6AXuA-bZFEJSfpOyqcZhfSOi3L8d05fPn5suYb1VSO5Vv2Xp5y92lnwxJVVyqxAkadMR7RghkDdseaFk3xUL_qf9dRQnTAJBkEZJiHfzdePu0FpNxS4lkofMQvj2t77qp2cgRM_QUu78rs56se65_RaTIpdHuaGnfpZ9mzxNmGttwF9PGJOD5c1WO5KJisx_XlCKn76ZGoMIIdKgTNjBoKg2jBhiluun2puklVid7Negis9e7ZbMFVC7zmsbyK9R98ojvcpRavblGGjmSb",
+    "price": 249,
+    "rating": 4.5,
+    "restaurant": "Spice Villa",
+    "category": "Lunch",
+    "subcategory": "Gravy"
+  },
+  {
+    "id": 2,
+    "name": "Chicken Biryani",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuA-bZFEJSfpOyqcZhfSOi3L8d05fPn5suYb1VSO5Vv2Xp5y92lnwxJVVyqxAkadMR7RghkDdseaFk3xUL_qf9dRQnTAJBkEZJiHfzdePu0FpNxS4lkofMQvj2t77qp2cgRM_QUu78rs56se65_RaTIpdHuaGnfpZ9mzxNmGttwF9PGJOD5c1WO5KJisx_XlCKn76ZGoMIIdKgTNjBoKg2jBhiluun2puklVid7Negis9e7ZbMFVC7zmsbyK9R98ojvcpRavblGGjmSb",
+    "price": 299,
+    "rating": 4.3,
+    "restaurant": "Biryani Hub",
+    "category": "Dinner",
+    "subcategory": "RiceDal"
+  },
+  {
+    "id": 3,
+    "name": "Masala Dosa",
+    "image": "https://b.zmtcdn.com/data/dish_photos/657/57f62b420d2f7eebfdfc76041a7c8657.jpg",
+    "price": 180,
+    "rating": 4.4,
+    "restaurant": "South Spice",
+    "category": "Breakfast",
+    "subcategory": "South Indian"
+  },
+  {
+    "id": 4,
+    "name": "Aloo Paratha",
+    "image": "https://b.zmtcdn.com/data/dish_photos/a5f/7f07ec8f9d93ec046d92b51cbfa78a5f.jpg",
+    "price": 120,
+    "rating": 4.2,
+    "restaurant": "Desi Rasoi",
+    "category": "Breakfast",
+    "subcategory": "North Indian"
+  },
+  {
+    "id": 5,
+    "name": "Cold Coffee",
+    "image": "https://b.zmtcdn.com/data/dish_photos/2b7/f8e606b13f4f9b7bdf62a727991432b7.jpg",
+    "price": 130,
+    "rating": 4.6,
+    "restaurant": "Cafe Brew",
+    "category": "Beverages",
+    "subcategory": "Cold"
+  },
+  {
+    "id": 6,
+    "name": "Hot Chocolate",
+    "image": "https://b.zmtcdn.com/data/dish_photos/442/247d293293f2a1bfcba06d1481a4c442.jpg",
+    "price": 150,
+    "rating": 4.7,
+    "restaurant": "Cocoa Corner",
+    "category": "Beverages",
+    "subcategory": "Hot"
+  },
+  {
+    "id": 7,
+    "name": "Chocolate Cake",
+    "image": "https://b.zmtcdn.com/data/dish_photos/86c/af6b75a7a2b6b72c6e06c86a278f286c.jpg",
+    "price": 220,
+    "rating": 4.8,
+    "restaurant": "Cake World",
+    "category": "Dessert",
+    "subcategory": "Cake"
+  },
+  {
+    "id": 8,
+    "name": "Gulab Jamun",
+    "image": "https://b.zmtcdn.com/data/dish_photos/8a5/8b70518b2cc7a6c67913b1421c7298a5.jpg",
+    "price": 100,
+    "rating": 4.5,
+    "restaurant": "Sweet Palace",
+    "category": "Dessert",
+    "subcategory": "Sweets"
+  },
+  {
+    "id": 9,
+    "name": "Pav Bhaji",
+    "image": "https://b.zmtcdn.com/data/dish_photos/79a/1e8c1b595d1a6a9d8ff1544ef65b579a.jpg",
+    "price": 160,
+    "rating": 4.3,
+    "restaurant": "Mumbai Tadka",
+    "category": "Snacks",
+    "subcategory": "QuickBites"
+  },
+  {
+    "id": 10,
+    "name": "Pani Puri",
+    "image": "https://b.zmtcdn.com/data/dish_photos/2b4/f48d72f9a5ed57b69c83a2577fa752b4.jpg",
+    "price": 80,
+    "rating": 4.4,
+    "restaurant": "Chaat House",
+    "category": "Snacks",
+    "subcategory": "Chaat"
+  },
+  {
+    "id": 11,
+    "name": "Jeera Rice",
+    "image": "https://b.zmtcdn.com/data/dish_photos/3a2/42cc08d31cddce3d8eb8f2c7c84cc3a2.jpg",
+    "price": 170,
+    "rating": 4.2,
+    "restaurant": "Tandoor Treats",
+    "category": "Lunch",
+    "subcategory": "RiceDal"
+  },
+  {
+    "id": 12,
+    "name": "Dal Fry",
+    "image": "https://b.zmtcdn.com/data/dish_photos/4e4/dcda1626b2d746259d8b2398e099e4e4.jpg",
+    "price": 190,
+    "rating": 4.3,
+    "restaurant": "Spice Villa",
+    "category": "Dinner",
+    "subcategory": "RiceDal"
+  },
+  {
+    "id": 13,
+    "name": "Veg Thali",
+    "image": "https://b.zmtcdn.com/data/dish_photos/457/63edbb9351c254e7a9c4fa5c86ef9457.jpg",
+    "price": 299,
+    "rating": 4.4,
+    "restaurant": "Desi Rasoi",
+    "category": "Lunch",
+    "subcategory": "All"
+  },
+  {
+    "id": 14,
+    "name": "Butter Naan",
+    "image": "https://b.zmtcdn.com/data/dish_photos/707/9e25b9e84194825b4f4ecb25bbf82707.jpg",
+    "price": 90,
+    "rating": 4.5,
+    "restaurant": "Punjabi Zaika",
+    "category": "Dinner",
+    "subcategory": "Dry"
+  },
+  {
+    "id": 15,
+    "name": "Chole Bhature",
+    "image": "https://b.zmtcdn.com/data/dish_photos/d0a/7c514bff5af8f20c8993055e6eb44d0a.jpg",
+    "price": 210,
+    "rating": 4.6,
+    "restaurant": "North Feast",
+    "category": "Breakfast",
+    "subcategory": "North Indian"
+  },
+  {
+    "id": 16,
+    "name": "Veg Fried Rice",
+    "image": "https://b.zmtcdn.com/data/dish_photos/2c3/27f4b5a9155e2ecdd6c04de15b3412c3.jpg",
+    "price": 230,
+    "rating": 4.2,
+    "restaurant": "Wok Express",
+    "category": "Lunch",
+    "subcategory": "RiceDal"
+  },
+  {
+    "id": 17,
+    "name": "Chicken Curry",
+    "image": "https://b.zmtcdn.com/data/dish_photos/8b2/41b7b0840a7b944f02e23cf9d761a8b2.jpg",
+    "price": 280,
+    "rating": 4.4,
+    "restaurant": "Biryani Hub",
+    "category": "Dinner",
+    "subcategory": "Gravy"
+  },
+  {
+    "id": 18,
+    "name": "Idli Sambar",
+    "image": "https://b.zmtcdn.com/data/dish_photos/ba3/4bb06e7892a5791a6cfd437b31fa9ba3.jpg",
+    "price": 100,
+    "rating": 4.5,
+    "restaurant": "South Spice",
+    "category": "Breakfast",
+    "subcategory": "South Indian"
+  },
+  {
+    "id": 19,
+    "name": "Lassi",
+    "image": "https://b.zmtcdn.com/data/dish_photos/86f/2e64dc53e676ea263a4a7cfd25e8a86f.jpg",
+    "price": 90,
+    "rating": 4.7,
+    "restaurant": "Punjabi Zaika",
+    "category": "Beverages",
+    "subcategory": "Cold"
+  },
+  {
+    "id": 20,
+    "name": "Tea",
+    "image": "https://b.zmtcdn.com/data/dish_photos/32e/53f6f516c6e203a963b7cc72a3fbb32e.jpg",
+    "price": 40,
+    "rating": 4.8,
+    "restaurant": "Chai Adda",
+    "category": "Beverages",
+    "subcategory": "Hot"
+  }
+]

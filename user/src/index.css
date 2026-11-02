@@ -1,0 +1,52 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Urbanist:wght@300;400;600;700&display=swap');
+@import 'tailwindcss';
+:root {
+  /* Main Palette */
+  --primary: #79a609da;         
+  --secondary: #FFFFFF;        /* Clean White – card & section background */
+  --accent: #1F2937;           /* Dark Slate – text & titles */
+  --dark: #000000;        /* Bright Yellow – highlights & badges */
+  --gray: #808080; 
+}
+/* body {
+  font-family: 'Urbanist', sans-serif, 'Outfit', 'Manrope', 'DM Sans', Space, 'Grotesk';
+}
+
+h1{
+  font-family: serif;
+}
+
+a{
+  font-family: serif;
+} */
+
+@keyframes pulse {
+  0%, 80%, 100% { transform: scale(0); opacity: 0.3; }
+  40% { transform: scale(1); opacity: 1; }
+}
+@layer base {
+  /* Show pointer for interactive elements */
+  button,
+  a[href],
+  [role="button"],
+  [role="link"],
+  [role="tab"],
+  summary,
+  input[type="button"],
+  input[type="submit"],
+  input[type="reset"],
+  label[for],
+  [onclick],
+  .clickable {
+    cursor: pointer;
+  }
+
+  /* Better affordance for disabled UI */
+  button:disabled,
+  [aria-disabled="true"],
+  .disabled,
+  [disabled] {
+    cursor: not-allowed;
+  }
+}

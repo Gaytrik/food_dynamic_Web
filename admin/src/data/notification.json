@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "text": "User Rajesh has placed an order: 1 Paneer Thali.",
+    "time": "Just Now",
+    "isNew": true
+  },
+  {
+    "id": 2,
+    "text": "User Priya has ordered: 2 Veg Burgers and 1 Coke.",
+    "time": "10 min ago",
+    "isNew": true
+  },
+  {
+    "id": 3,
+    "text": "User Amit has ordered: 1 Margherita Pizza.",
+    "time": "30 min ago",
+    "isNew": false
+  },
+  {
+    "id": 4,
+    "text": "User Sneha has ordered: 3 Chicken Thalis.",
+    "time": "1 hour ago",
+    "isNew": false
+  },
+  {
+    "id": 5,
+    "text": "User Rohan has placed an order: 1 Veg Biryani with Raita.",
+    "time": "Yesterday",
+    "isNew": false
+  }
+]

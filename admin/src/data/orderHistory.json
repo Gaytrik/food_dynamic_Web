@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ORD-1023",
+    "customer": "Vaishnavi Patel",
+    "date": "2025-10-25",
+    "items": 3,
+    "total": "₹2,450",
+    "status": "Delivered"
+  },
+  {
+    "id": "ORD-1024",
+    "customer": "Ravi Sharma",
+    "date": "2025-10-26",
+    "items": 1,
+    "total": "₹699",
+    "status": "Pending"
+  },
+  {
+    "id": "ORD-1025",
+    "customer": "Aarav Singh",
+    "date": "2025-10-27",
+    "items": 2,
+    "total": "₹1,850",
+    "status": "Cancelled"
+  },
+  {
+    "id": "ORD-1026",
+    "customer": "Neha Desai",
+    "date": "2025-10-28",
+    "items": 4,
+    "total": "₹3,299",
+    "status": "Delivered"
+  },
+  {
+    "id": "ORD-1027",
+    "customer": "Rohit Gupta",
+    "date": "2025-10-29",
+    "items": 2,
+    "total": "₹1,499",
+    "status": "Pending"
+  }
+]

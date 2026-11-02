@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Barbecue Crab",
+    "price": 400,
+    "finalPrice": 350,
+    "discount": 12,
+    "category": "Seafood",
+    "imageUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuDIZbLcQD_UQT-a_VNs2Ly9wP8gU36b2fhmdCS4-N-p7iPjqMBsl32XsMn_71HsnXS7IBzzQ7yhc8pcwJ_Nvvj-rR2UcAodXE6fPdpNTNcStobws4ZSyRNLUehVxjsT8aXi7j19wkm0KE_N0NGW5Gdxj-AOF9vfNpfu8iiPpfEIyT76aX-QCmDHFFcd8JQBaXENxXokqfUa92cgm1bGqeQk3cgAe1eCSW5Yn94qtJ3jDNoDbx1WDaPAaEIvJJNnAGRCEVpVM-z1gxB2",
+    "stock": 8
+  },
+  {
+    "id": 2,
+    "name": "Braised Fish",
+    "price": 220,
+    "finalPrice": 220,
+    "discount": 0,
+    "category": "Seafood",
+    "imageUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuA-bZFEJSfpOyqcZhfSOi3L8d05fPn5suYb1VSO5Vv2Xp5y92lnwxJVVyqxAkadMR7RghkDdseaFk3xUL_qf9dRQnTAJBkEZJiHfzdePu0FpNxS4lkofMQvj2t77qp2cgRM_QUu78rs56se65_RaTIpdHuaGnfpZ9mzxNmGttwF9PGJOD5c1WO5KJisx_XlCKn76ZGoMIIdKgTNjBoKg2jBhiluun2puklVid7Negis9e7ZbMFVC7zmsbyK9R98ojvcpRavblGGjmSb",
+    "stock": 12
+  },
+  {
+    "id": 3,
+    "name": "Chicken Sizzling",
+    "price": 320,
+    "finalPrice": 290,
+    "discount": 10,
+    "category": "BBQ",
+    "imageUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuDulePE3dSvYkQv8CCzv0ynHhVaIZXvk_Qax0VdljaIEIZKXdAdzc71oVvVjbnRaz15YI5yvin2B2V8GCTHuv5_UeAp6BMQMYZWaml9I6TzAZX4BdEsB55onL7pBXeUqrmtKmedZfzyFgdjvhelQlmc-7w45nVmO1TNiRbMcf-H2wlQmjyTYo-k-TizRYbiokh3esDGQjBVKCGRA-3jnoUUuZgaxNkYTeTGpqUMqwXeVLjSCnnT_nRpVR_Tsul0JakwbTWdd_cSjFWF",
+    "stock": 6
+  },
+  {
+    "id": 4,
+    "name": "Smoky Steak",
+    "price": 320,
+    "finalPrice": 320,
+    "discount": 0,
+    "category": "Steak",
+    "imageUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuBIrFB5SvGWHNSvSM2a6Ua5wSOJtqQGZjHnvuz-tGf4Vb1-IBCA5gWunsmyhF3MeP6saPZrq05eniPMcgvCAGX-GC484nhXU-xcGB_hDjULJ38uzB1nRaJwB6vqo3Z-4Dxcyy4E2mu9DNnaG89OB-4L-HaVKgtldrWv8zqaU0ybrcK8UCvBNEuAuD62tOOCFTtBaImzBzeuVy4Od2PcNuO5BOjPaLxwdIlXouQE1ALLDbW2xAuMurgCzNGtQ09AHsqd6qpydwyD0WjX",
+    "stock": 0
+  },
+  {
+    "id": 5,
+    "name": "Panner Kadhai",
+    "price": 320,
+    "finalPrice": 320,
+    "discount": 0,
+    "category": "Steak",
+    "imageUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuA-bZFEJSfpOyqcZhfSOi3L8d05fPn5suYb1VSO5Vv2Xp5y92lnwxJVVyqxAkadMR7RghkDdseaFk3xUL_qf9dRQnTAJBkEZJiHfzdePu0FpNxS4lkofMQvj2t77qp2cgRM_QUu78rs56se65_RaTIpdHuaGnfpZ9mzxNmGttwF9PGJOD5c1WO5KJisx_XlCKn76ZGoMIIdKgTNjBoKg2jBhiluun2puklVid7Negis9e7ZbMFVC7zmsbyK9R98ojvcpRavblGGjmSb",
+    "stock": 0
+  }
+]

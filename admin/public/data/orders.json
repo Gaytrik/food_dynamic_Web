@@ -1,0 +1,231 @@
+[
+  {
+    "id": "ORD001",
+    "itemName": "Fish Burger",
+    "image": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?auto=format&fit=crop&w=80&q=80",
+    "address": "Elm Street, 23 Yogyakarta",
+    "status": "Completed",
+    "totalPrice": 250
+  },
+  {
+    "id": "ORD002",
+    "itemName": "Pepperoni Pizza",
+    "image": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?auto=format&fit=crop&w=80&q=80",
+    "address": "Sunrise Avenue, 12 Jakarta",
+    "status": "Pending",
+    "totalPrice": 420
+  },
+  {
+    "id": "ORD003",
+    "itemName": "Beef Burger",
+    "image": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?auto=format&fit=crop&w=80&q=80",
+    "address": "Main Road, 45 Bali",
+    "status": "Completed",
+    "totalPrice": 300
+  },
+  {
+    "id": "ORD004",
+    "itemName": "Cheese Sandwich",
+    "image": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?auto=format&fit=crop&w=80&q=80",
+    "address": "Ocean Drive, 54 Jakarta",
+    "status": "Pending",
+    "totalPrice": 180
+  },
+  {
+    "id": "ORD005",
+    "itemName": "Grilled Chicken",
+    "image": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?auto=format&fit=crop&w=80&q=80",
+    "address": "Palm Street, 10 Bandung",
+    "status": "Completed",
+    "totalPrice": 350
+  },
+  {
+    "id": "ORD006",
+    "itemName": "Veggie Pizza",
+    "image": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?auto=format&fit=crop&w=80&q=80",
+    "address": "Sunset Road, 22 Denpasar",
+    "status": "Pending",
+    "totalPrice": 400
+  },
+  {
+    "id": "ORD007",
+    "itemName": "Pasta Alfredo",
+    "image": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?auto=format&fit=crop&w=80&q=80",
+    "address": "Lotus Street, 8 Surabaya",
+    "status": "Completed",
+    "totalPrice": 270
+  },
+  {
+    "id": "ORD008",
+    "itemName": "Chicken Wings",
+    "image": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?auto=format&fit=crop&w=80&q=80",
+    "address": "Garden Road, 11 Malang",
+    "status": "Pending",
+    "totalPrice": 230
+  },
+  {
+    "id": "ORD009",
+    "itemName": "Mushroom Soup",
+    "image": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?auto=format&fit=crop&w=80&q=80",
+    "address": "Green Avenue, 3 Yogyakarta",
+    "status": "Completed",
+    "totalPrice": 150
+  },
+  {
+    "id": "ORD010",
+    "itemName": "Club Sandwich",
+    "image": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?auto=format&fit=crop&w=80&q=80",
+    "address": "Riverside Lane, 40 Jakarta",
+    "status": "Pending",
+    "totalPrice": 210
+  },
+  {
+    "id": "ORD011",
+    "itemName": "French Fries",
+    "image": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?auto=format&fit=crop&w=80&q=80",
+    "address": "Liberty Street, 7 Bandung",
+    "status": "Completed"
+  },
+  {
+    "id": "ORD012",
+    "itemName": "Margherita Pizza",
+    "image": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?auto=format&fit=crop&w=80&q=80",
+    "address": "Coconut Road, 18 Denpasar",
+    "status": "Pending"
+  },
+  {
+    "id": "ORD013",
+    "itemName": "Chicken Salad",
+    "image": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?auto=format&fit=crop&w=80&q=80",
+    "address": "Flower Avenue, 29 Surabaya",
+    "status": "Completed"
+  },
+  {
+    "id": "ORD014",
+    "itemName": "Tuna Sandwich",
+    "image": "https://images.unsplash.com/photo-1617196034796-73dfa9f98e73?auto=format&fit=crop&w=80&q=80",
+    "address": "Pine Road, 31 Malang",
+    "status": "Pending"
+  },
+  {
+    "id": "ORD015",
+    "itemName": "Spaghetti Bolognese",
+    "image": "https://images.unsplash.com/photo-1601050690597-8f2b02d94a92?auto=format&fit=crop&w=80&q=80",
+    "address": "Oak Street, 9 Jakarta",
+    "status": "Completed"
+  },
+  {
+    "id": "ORD016",
+    "itemName": "Grilled Sandwich",
+    "image": "https://images.unsplash.com/photo-1617196034796-73dfa9f98e73?auto=format&fit=crop&w=80&q=80",
+    "address": "Maple Road, 5 Bali",
+    "status": "Pending"
+  },
+  {
+    "id": "ORD017",
+    "itemName": "Paneer Tikka",
+    "image": "https://images.unsplash.com/photo-1592839715472-8c06baf0b1a4?auto=format&fit=crop&w=80&q=80",
+    "address": "Rose Avenue, 15 Yogyakarta",
+    "status": "Completed"
+  },
+  {
+    "id": "ORD018",
+    "itemName": "Caesar Salad",
+    "image": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?auto=format&fit=crop&w=80&q=80",
+    "address": "Daisy Lane, 21 Bandung",
+    "status": "Pending"
+  },
+  {
+    "id": "ORD019",
+    "itemName": "BBQ Chicken Pizza",
+    "image": "https://images.unsplash.com/photo-1601924582971-c5a22da03e2b?auto=format&fit=crop&w=80&q=80",
+    "address": "Crescent Road, 4 Denpasar",
+    "status": "Completed"
+  },
+  {
+    "id": "ORD020",
+    "itemName": "Veggie Burger",
+    "image": "https://images.unsplash.com/photo-1606755962773-0f8a6ef76b81?auto=format&fit=crop&w=80&q=80",
+    "address": "Palm Street, 33 Jakarta",
+    "status": "Pending"
+  }, {
+    "id": "ORD011",
+    "itemName": "French Fries",
+    "image": "https://images.unsplash.com/photo-1550547660-d9450f859349?auto=format&fit=crop&w=80&q=80",
+    "address": "Liberty Street, 7 Bandung",
+    "status": "Completed",
+    "totalPrice": 120
+  },
+  {
+    "id": "ORD012",
+    "itemName": "Margherita Pizza",
+    "image": "https://images.unsplash.com/photo-1601924582971-c5a22da03e2b?auto=format&fit=crop&w=80&q=80",
+    "address": "Coconut Road, 18 Denpasar",
+    "status": "Pending",
+    "totalPrice": 380
+  },
+  {
+    "id": "ORD013",
+    "itemName": "Chicken Salad",
+    "image": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?auto=format&fit=crop&w=80&q=80",
+    "address": "Flower Avenue, 29 Surabaya",
+    "status": "Completed",
+    "totalPrice": 260
+  },
+  {
+    "id": "ORD014",
+    "itemName": "Tuna Sandwich",
+    "image": "https://images.unsplash.com/photo-1617196034796-73dfa9f98e73?auto=format&fit=crop&w=80&q=80",
+    "address": "Pine Road, 31 Malang",
+    "status": "Pending",
+    "totalPrice": 200
+  },
+  {
+    "id": "ORD015",
+    "itemName": "Spaghetti Bolognese",
+    "image": "https://images.unsplash.com/photo-1601050690597-8f2b02d94a92?auto=format&fit=crop&w=80&q=80",
+    "address": "Oak Street, 9 Jakarta",
+    "status": "Completed",
+    "totalPrice": 340
+  },
+  {
+    "id": "ORD016",
+    "itemName": "Grilled Sandwich",
+    "image": "https://images.unsplash.com/photo-1617196034796-73dfa9f98e73?auto=format&fit=crop&w=80&q=80",
+    "address": "Maple Road, 5 Bali",
+    "status": "Pending",
+    "totalPrice": 190
+  },
+  {
+    "id": "ORD017",
+    "itemName": "Paneer Tikka",
+    "image": "https://images.unsplash.com/photo-1592839715472-8c06baf0b1a4?auto=format&fit=crop&w=80&q=80",
+    "address": "Rose Avenue, 15 Yogyakarta",
+    "status": "Completed",
+    "totalPrice": 300
+  },
+  {
+    "id": "ORD018",
+    "itemName": "Caesar Salad",
+    "image": "https://images.unsplash.com/photo-1605478573160-e95dc4d5b9c3?auto=format&fit=crop&w=80&q=80",
+    "address": "Daisy Lane, 21 Bandung",
+    "status": "Pending",
+    "totalPrice": 240
+  },
+  {
+    "id": "ORD019",
+    "itemName": "BBQ Chicken Pizza",
+    "image": "https://images.unsplash.com/photo-1601924582971-c5a22da03e2b?auto=format&fit=crop&w=80&q=80",
+    "address": "Crescent Road, 4 Denpasar",
+    "status": "Completed",
+    "totalPrice": 420
+  },
+  {
+    "id": "ORD020",
+    "itemName": "Veggie Burger",
+    "image": "https://images.unsplash.com/photo-1606755962773-0f8a6ef76b81?auto=format&fit=crop&w=80&q=80",
+    "address": "Palm Street, 33 Jakarta",
+    "status": "Pending",
+    "totalPrice": 260
+  }
+]

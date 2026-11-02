@@ -1,0 +1,32 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Breakfast",
+      "slug": "breakfast",
+      "tagline": "Kickstart your day with energy.",
+      "imageUrl": "/Images/breakfast.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Lunch",
+      "slug": "lunch",
+      "tagline": "Satisfying midday cravings.",
+      "imageUrl": "/Images/lunch.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Dinner",
+      "slug": "dinner",
+      "tagline": "Fine dining for a perfect evening.",
+      "imageUrl": "/Images/dinner.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Snacks",
+      "slug": "snacks",
+      "tagline": "Cool down with refreshing beverages.",
+      "imageUrl": "/Images/snaks.jpg"
+    }
+  ]
+}
